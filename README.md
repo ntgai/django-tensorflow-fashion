@@ -46,7 +46,7 @@ Fashion MNIST
  <br>Predicted: Pullover
 
 <br>Public
- <br>Real: T-shirt - https://cdn.shopify.com/s/files/1/1407/1106/products/craghoppers-short-trousers.jpg?v=1556544776
+ <br>Real: Trousers - https://cdn.shopify.com/s/files/1/1407/1106/products/craghoppers-short-trousers.jpg?v=1556544776
  <br>Predicted: Bag
 
 As noted in academic papers, this model is not great for the public picture which is outside in fashion mnist dataset. This is a future task to be able to convert any picture to fashion mnist shape and form.

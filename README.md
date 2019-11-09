@@ -38,10 +38,15 @@ python3 manage.py runserver
 
 ## Testing
 
-Ankle Boot
+Fashion MNIST
+ <br>Real: Ankle Boot - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANW2BEM-EtuoCnbSJY1E5OXnVF3W78vFaRT3E8UKOyo5F4eMx&s
+ <br>Predicted: Ankle Boot
+ 
+ Real: Pullover - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcUX7z4NKVR2xR8ndWZXf0ajJIzX7enrF9tvIBoQRH85TRfnl&s
+ <br>Predicted: Pullover
 
-Pullover
-
-T-shirt
+<br>Public
+ <br>Real: T-shirt - https://cdn.shopify.com/s/files/1/1407/1106/products/craghoppers-short-trousers.jpg?v=1556544776
+ <br>Predicted: Bag
 
 As noted in academic papers, this model is not great for the public picture which is outside in fashion mnist dataset. This is a future task to be able to convert any picture to fashion mnist shape and form.
